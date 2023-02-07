@@ -1,0 +1,293 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    width: 100%;
+    height: 793px;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    background-position:center center ;
+}
+
+.container h1{
+    padding-top: 270px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+.container h3{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+.container input{
+font-size: 18px;
+background-color: #1D809F;
+width: 176px;
+height: 66px;
+border-radius: 5px;
+cursor: pointer;
+margin: auto;
+display: block;
+color: white;
+margin-top: 30px;
+border:3px #1D809F;
+transition: 0.3s;
+}
+.container input:hover{
+    background-color: #166780;
+}
+.s{
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    text-align: center;
+    margin-top: 100px;
+}
+.s p{
+    font-size: 18px;
+}
+.s input{
+font-size: 18px;
+background-color: #212529;
+width: 176px;
+height: 66px;
+border-radius: 5px;
+cursor: pointer;
+margin: auto;
+display: block;
+color: white;
+margin-top: 30px;
+border:3px #1D809F;
+transition: 0.3s;
+margin-bottom: 100px;
+}
+.s input:hover{
+    background-color: #1a1b1c;
+}
+.c{
+    background-color: #1D809F;
+    width: 100%;
+    height: 533px;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+.c h2{
+    color: #ECB807;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 100px;
+}
+.c h4{
+    text-align: center;
+    color: white;
+    font-size: 42px;
+}
+.c h1{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+.c .q{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.icon{
+    margin-left: 50px;
+    width: 110px;
+    height: 110px;
+    background-color: white;
+    border-radius: 50%;
+}
+.icon i{
+    padding: 36px;
+   font-size: 50px;
+}
+.c1{
+    box-sizing: border-box;
+    margin: 20px;
+}
+.c1 p{
+    color: white;
+}
+.of{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    width: 100%;
+    height: 728px;
+    text-align: center;
+}
+.of input{
+    font-size: 18px;
+    background-color: #1D809F;
+    width: 176px;
+    height: 66px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: auto;
+    display: block;
+    color: white;
+    margin-top: 30px;
+    border:3px #1D809F;
+    transition: 0.3s;
+}
+.of input:hover{
+background-color: #166780;
+}
+.of h1{
+    padding-top: 300px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+.of h2{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+.x{
+    width: 100%;
+    height: 368px;
+    background-color: #1D809F;
+    text-align: center;
+}
+.x h1{
+    margin-top: 100px;
+    padding-top: 100px;
+    font-family: Source Sans Pro, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    color: white;
+}
+.x a{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: black;
+    width: 176px;
+    height: 66px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    color: white;
+    margin-top: 30px;
+    border:3px #1D809F;
+    transition: 0.6s;   
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.x .b1{
+    background-color: #fff;
+    color: #000;
+}
+.aa{
+    display: flex;
+    justify-content: center;
+
+}
+.x .b1:hover{
+background-color: black;
+color: #fff;
+}
+.x .c1:hover{
+    background-color: white;
+    color: #000;
+}
+.tt p{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.xerite iframe{
+    width: 100%;
+    height: 500px;
+}
+.bb{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.ic{
+    color: #fff;
+    width: 70px;
+    height: 45px;
+    background-color: #1D809F;
+    border-radius: 50%;
+    margin: 7px;
+    text-align: center;
+    padding-top: 22.5px;
+}
+.ic i{
+    font-size:25px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.ic i:hover{
+    background-color: #166780;
+    border-radius: 50%;
+}
+.div4{
+    text-align: center;
+    padding-top: 120px;
+    width: 100%;
+    height: 1000px;
+    position: relative;
+}
+.div4 h3{
+    font-size:15px;
+    font-family: sans-serif;
+    color:goldenrod;
+}
+.div4 h1{
+    font-size:50px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #000;
+
+}
+.sekiller{
+    width: 100%;
+    margin-top: 50px;
+    position: absolute;
+}
+
+.div4-image{
+    width: 40%;
+    height: 400px;
+    display: inline-block;
+    color: #fff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+.div4-image h2{
+    font-size: 16px;
+    padding-top: 280px;
+
+}
+.sekil1{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-1.jpg);
+
+}
+.sekil2{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-2.jpg);
+}
+.sekil3{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-3.jpg);
+
+}
+.sekil4{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-4.jpg);
+
+}
+.passiv .div4-image{
+    background-color: rgba(255, 255, 255, 0.5);
+    opacity: 0;
+    transition: 0.5s;
+}
+.div4-image:hover{
+    opacity: 1;
+    border: 20px solid white;
+}
